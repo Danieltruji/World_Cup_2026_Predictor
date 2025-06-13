@@ -6,7 +6,6 @@ __pycache__/
 .env
 
 
-
 # Allow backend/data/ to be tracked
 !backend/data/
 !backend/data/.gitkeep
