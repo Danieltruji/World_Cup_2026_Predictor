@@ -5,8 +5,13 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 
+# frontend
+frontend/node_modules/
+
+
 
 # Allow backend/data/ to be tracked
 !backend/data/
 !backend/data/.gitkeep
+
 
