@@ -4,3 +4,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+
+
+
+# Allow backend/data/ to be tracked
+!backend/data/
+!backend/data/.gitkeep
+
